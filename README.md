@@ -12,7 +12,7 @@ Delta Lake is an open-source storage layer that brings **ACID transactions**, **
 - Apache Spark / PySpark
 - Delta Lake
 - Databricks
-- Local filesystem / DBFS
+- DBFS
 - Databricks Notebooks
 
 ## 📁 Repository Structure
@@ -25,7 +25,7 @@ Delta Lake is an open-source storage layer that brings **ACID transactions**, **
 - Reading and Writing Delta Tables
 - Time Travel
 - Schema Evolution
-- Merge (Upserts)
+- Merge Into
 - Delete and Update Operations
 - Vacuum and Optimize
 
